@@ -12,7 +12,7 @@ written in plain language, they can be read by anyone on your team. Because they
 read by anyone, you can use them to help improve communication, collaboration and trust on
 your team.
 
-Where to get more info:
+Were to get more info:
 
   * The main website: https://cucumber.io/
   * Documentation: https://github.com/cucumber/cucumber/wiki
